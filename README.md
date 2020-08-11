@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
 
 <!--
 **AlexPauloVieira/AlexPauloVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
