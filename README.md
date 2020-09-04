@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![](https://raw.githubusercontent.com/AlexPauloVieira/AlexPauloVieira/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 
 <!--
 **AlexPauloVieira/AlexPauloVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
