@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/AlexPauloVieira/AlexPauloVieira/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
-
 ### GitHub Stats:
 <div>
   <div>
