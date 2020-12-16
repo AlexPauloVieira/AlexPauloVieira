@@ -1,7 +1,5 @@
  <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello and welcome! </h1>
 
- <img align="right" width="200" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47fsj3agb136y2t4wpf1pt9ur74m98gmvyldm867bk&rid=giphy.gif" />
-
  ![](https://raw.githubusercontent.com/AlexPauloVieira/AlexPauloVieira/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 
 ### GitHub Stats:
